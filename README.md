@@ -1,3 +1,4 @@
+about hooks
 # Create try/hydr-rails4-a
 # Create develop branch
 # Ruby on Rails チュートリアル：サンプルアプリケーション
